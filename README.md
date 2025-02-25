@@ -26,7 +26,7 @@ La clientela puede elegir entre un pago mensual o firmar un contrato de 1 o 2 a√
 
 ### Descripci√≥n de los datos
 
-Encuentra los datos en: `*final.provider.zip*`
+Encuentra los datos en: *`final.provider.zip`*
 
 Los datos consisten en archivos obtenidos de diferentes fuentes:
 
